@@ -4,9 +4,12 @@
 
 <br/>
 
-## 🌎 배포
+## 🌎 링크
 
 [배포 링크](http://calc-exchange-rate-17.s3-website.ap-northeast-2.amazonaws.com/)
+
+
+[프로젝트 후기 - 블로그](https://mu-mu-syo.tistory.com/52)
 
 <br/>
 
